@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class backjoon7569 {
+public class acm7569 {
     static int M, N, H, answ = 0;
     static int[][][] map = new int[101][101][101];
     static int[] cy = {1, 0, -1, 0, 0, 0};
